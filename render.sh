@@ -13,8 +13,8 @@ if [ ! -f "$CONTACT_FILE" ]; then
 fi
 
 # Leer valores del fichero de contacto
-PHONE=$(yq '.phone' "$CONTACT_FILE")
-EMAIL=$(yq '.email' "$CONTACT_FILE")
+PHONE=$(yq -r '.phone' "$CONTACT_FILE")
+EMAIL=$(yq -r '.email' "$CONTACT_FILE")
 
 # Función que sustituye placeholders y genera PDF
 render() {
@@ -36,8 +36,7 @@ render() {
     -V margin-bottom=20mm \
     -V margin-left=20mm \
     -V margin-right=20mm \
-    -V fontsize=11pt \
-    --metadata title="Guillermo Marante Freire — CV"
+    -V fontsize=11pt
 
   rm "$tmp"
   echo "  → $output generado correctamente"
