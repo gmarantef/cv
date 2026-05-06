@@ -21,8 +21,8 @@ está en entender el dato que corre sobre la infra, no solo la infra.
 
 ## Experiencia
 
-### Ingeniero de Datos · Wired & Linked — Inditex
-**marzo 2025 – febrero 2026 · A Coruña**
+### Ingeniero de Datos · Wired & Linked - Inditex
+**marzo 2025 - febrero 2026 · A Coruña**
 
 Proyecto sobre cliente Inditex de procesamiento de datos de marketing digital.
 Entornos GCP y Snowflake de forma independiente.
@@ -36,7 +36,7 @@ Copilot).
 ---
 
 ### Ingeniero de Datos · WePlan Analytics
-**noviembre 2024 – marzo 2025 · A Coruña**
+**noviembre 2024 - marzo 2025 · A Coruña**
 
 - Administración y optimización de clústeres EMR en AWS.
 - Soporte y evolución de infraestructura como código con Terraform.
@@ -45,7 +45,7 @@ Copilot).
 ---
 
 ### DataOps · ODILO
-**febrero 2024 – noviembre 2024 · Madrid**
+**febrero 2024 - noviembre 2024 · Madrid**
 
 Rol único de DataOps en el equipo de datos, con diseño y ownership de la
 arquitectura operacional sobre AWS, en colaboración estrecha con el equipo de
@@ -59,7 +59,7 @@ DevOps.
 ---
 
 ### Ingeniero de Datos · ODILO
-**enero 2023 – febrero 2024 · Madrid**
+**enero 2023 - febrero 2024 · Madrid**
 
 Diseño e implementación de la plataforma de datos desde cero, con libertad
 técnica plena sobre AWS.
@@ -71,7 +71,7 @@ vía APIs.
 ---
 
 ### Consultor · Sygris
-**septiembre 2021 – enero 2023 · Madrid**
+**septiembre 2021 - enero 2023 · Madrid**
 
 Proyectos sobre Urbaser (digitalización de seguros), Repsol (sostenibilidad y
 RSC) y Agencia Tributaria (modernización tributaria).
@@ -84,7 +84,7 @@ Reporting SQL.
 ---
 
 ### Ingeniero de Estructuras · Global Control & Qualification Services
-**septiembre 2018 – abril 2019 · A Coruña**
+**septiembre 2018 - abril 2019 · A Coruña**
 
 Diseño y cálculo de estructuras metálicas. Modelado 3D y planos de fabricación.
 
@@ -92,32 +92,35 @@ Diseño y cálculo de estructuras metálicas. Modelado 3D y planos de fabricaci�
 
 ## Stack técnico
 
-- **Infraestructura** — Terraform · Docker · AWS · Google Cloud · CI/CD ·
+- **Infraestructura**: Terraform · Docker · AWS · Google Cloud · CI/CD ·
 Datadog · Vagrant
-- **Procesamiento** — Python · PySpark · SQL · Apache Airflow
-- **Almacenamiento** — Google BigQuery · Snowflake · Diseño de bases de datos
-- **Herramientas** — Shell · Git · GitHub Copilot · ETL
+- **Procesamiento**: Python · PySpark · SQL · Apache Airflow
+- **Almacenamiento**: Google BigQuery · Snowflake · Diseño de bases de datos
+- **Herramientas**: Shell · Git · GitHub Copilot · ETL
 
 ---
 
 ## Proyectos
 
-- **[dotfiles](https://github.com/gmarantef/dotfiles)** — Bootstrap
+- **[dotfiles](https://github.com/gmarantef/dotfiles)**: Bootstrap
 reproducible de sistemas Linux/macOS con chezmoi y shell scripting.
-- **[erp-odoo-community](https://github.com/gmarantef/erp-odoo-community)** —
+- **[erp-odoo-community](https://github.com/gmarantef/erp-odoo-community)**:
 ERP Odoo Community con Docker Compose, acceso remoto vía Tailscale y CI/CD con
 GitHub Actions.
+- **[ai-observability-stack](https://github.com/gmarantef/ai-observability-stack)**:
+Stack de observabilidad self-hosted y contenerizado para monitorizar la
+ejecución de modelos LLM.
 
 ---
 
 ## Educación
 
-**Máster en Ingeniería Industrial** · Universidad Antonio de Nebrija · 2019–2021
+**Máster en Ingeniería Industrial** · Universidad Antonio de Nebrija · 2019-2021
 
 TFM: aplicación de ML y DL para inferencia de parámetros estructurales. Primer
 contacto con Python y punto de partida hacia el mundo del dato.
 
-**Grado en Ingeniería Mecánica** · Universidad de Vigo · 2011–2018
+**Grado en Ingeniería Mecánica** · Universidad de Vigo · 2011-2018
 
 ---
 
@@ -132,4 +135,4 @@ contacto con Python y punto de partida hacia el mundo del dato.
 
 ## Idiomas
 
-Español — Nativo · Gallego — Nativo · Inglés — B1
+Español - Nativo · Gallego - Nativo · Inglés - B1
