@@ -74,6 +74,8 @@ orchestration, and API-based source integration.
 Projects for Urbaser (insurance digitalization), Repsol (sustainability and
 CSR), and the Spanish Tax Agency (tax management modernization).
 
+- ESG indicator analytics, environmental metrics reporting and social and
+corporate governance indicators.
 - ETL development and data transformations in Python. Relational database
 design. SQL reporting.
 

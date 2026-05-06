@@ -76,6 +76,8 @@ vía APIs.
 Proyectos sobre Urbaser (digitalización de seguros), Repsol (sostenibilidad y
 RSC) y Agencia Tributaria (modernización tributaria).
 
+- Analítica de indicadores ESG, reporting de métricas medioambientales e
+indicadores sociales y de gobierno corporativo.
 - ETLs y transformaciones en Python. Diseño de bases de datos relacionales.
 Reporting SQL.
 
